@@ -38,5 +38,16 @@ console.log(myset)
 
 
 
+myset.delete(19)
+console.log(myset.delete(19))
+console.log(myset.has(19))
+console.log(myset.size)
+
+let mys = new Set();
+
+console.log(mys.size)
+mys.add('manikandan')
+console.log(mys))
+
 
 
