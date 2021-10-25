@@ -26,10 +26,17 @@ let myob=new Map();
 myob.set('x',[{mani:'sasi',age:23,car:'fix'},{mani:'sasi',age:23,car:'fix'},{mani:'sasi',age:23,car:'fix'},{mani:'sasi',age:23,car:'fix'}])
 console.log(myob.get('x'))
 
-console.log(myob.size)
+let mob=new Map();
+mob.set('man',[1,2,23,45],[2,4,6,8])
+console.log(mob.size)
 
 
 //set  helper method add,delete,has,size
+let myset = new Set();
+myset.add(19)
+console.log(myset)
+
+
 
 
 
