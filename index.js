@@ -47,7 +47,7 @@ let mys = new Set();
 
 console.log(mys.size)
 mys.add('manikandan')
-console.log(mys))
+console.log(mys)
 
 
 
